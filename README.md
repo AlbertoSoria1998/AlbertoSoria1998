@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 *   WakaTime card
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertoSoria1998)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesus73514145)
