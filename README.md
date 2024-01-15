@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoria1998)
 
-*   WakaTime card
+*   Setting card locale
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesus73514145)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlbertoSoria1998\&locale=es)
