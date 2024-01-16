@@ -2,21 +2,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h1 >¡Hola! Soy Jesús 👋</h1>
+<h1 >Hi, I’m Jesús 👋</h1>
 
-**AlbertoSoria1998/AlbertoSoria1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 👀 I’m interested in programming, specifically in software development.
+- 🌱 I’m currently learning web development and mobile development.
+- 💞️ I’m looking to collaborate on any type of projects that require programming and design.
+- 📫 How to reach me: yisusoria@gmail.com (Gmail).
 
 ## **GitHub Stats:**  
 
