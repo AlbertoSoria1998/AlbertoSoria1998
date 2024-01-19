@@ -14,8 +14,8 @@
 *   Top languages
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoria1998&langs_count=10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoria1998&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AlbertoSoria1998) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoria1998&layout=compact&langs_count=10&bg_color=30,4c1,29a845&title_color=fff&text_color=fff)](https://github.com/AlbertoSoria1998)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoria1998&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AlbertoSoria1998) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoria1998&layout=compact&langs_count=10&bg_color=30,4c1,29a845&title_color=fff&text_color=fff)](https://github.com/AlbertoSoria1998)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoria1998&layout=compact&langs_count=10&bg_color=30,3490dc,9561e2&title_color=fff&text_color=fff)](https://github.com/AlbertoSoria1998)
 
@@ -23,8 +23,8 @@
 *   Setting card locale
 
 <!-- ![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlbertoSoria1998&custom_title=Estadisticas%20de%20Jesús%20Soria&custom_width=500&locale=es) 
-[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSoria1998&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/AlbertoSoria1998) -->
-[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSoria1998&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,4c1,29a845&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/AlbertoSoria1998)
+[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSoria1998&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/AlbertoSoria1998) 
+[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSoria1998&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,4c1,29a845&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/AlbertoSoria1998)-->
 
 [![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSoria1998&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,3490dc,9561e2&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/AlbertoSoria1998)
 
